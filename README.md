@@ -1,2 +1,0 @@
-# BAHAMAR
-Sistemas de Bombas
